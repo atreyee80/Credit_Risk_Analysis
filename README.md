@@ -4,5 +4,7 @@
 |---|---|---|---|
 |Formula|(TP+NP)/(TP+FP+TN+FN)|TP/(TP+FP)|TP/(TP+FN)
 |---|---|---|---|
+|RandomOverSampler|---|---|---|
+|SMOTE|---|---|---|
 
 
