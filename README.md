@@ -5,5 +5,9 @@
 |---|---|---|---|
 |RandomOverSampler|---|---|---|
 |SMOTE|---|---|---|
+|ClusterCentroids|---|---|---|
+|SMOTEENN|---|---|---|
+|BalancedRandomForestClassifier|---|---|---|
+|EasyEnsembleClassifier|---|---|---|
 
 
