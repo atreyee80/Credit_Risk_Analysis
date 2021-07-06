@@ -53,9 +53,10 @@ Specifically for this deliverable we did the following:
 
 ![](Combinationoverandundersampling1.png?raw=true)
 ![](Combinationoverandundersampling2.png?raw=true)
-
-![](Randomforest1.png?raw=true)
+# randomForestModel
 ![](Randomforest2.png?raw=true)
+![](Randomforest1.png?raw=true)
+
 
 
 ## Comparison of Results- High Risk Of Default
