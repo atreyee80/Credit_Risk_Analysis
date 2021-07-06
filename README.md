@@ -37,7 +37,8 @@ Specifically for this deliverable we did the following:
 6.Generate a confusion matrix.<br>
 7.Print out the imbalanced classification report (see below).<br>
 Naive Random Oversampling:
-![][NaiveRandomOversampling1.png]
+![](NaiveRandomOversampling1.png?raw=true)
+![](NaiveRandomOversampling2.png?raw=true)
 
 
 
