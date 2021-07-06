@@ -18,6 +18,26 @@ Data Sources provided to analyze and minipulate included:
 .Jupyter Notebook 6.1.4<br>
 .Personal GitHub account<br>
 
+# Analysis/Workflow/Results
+The general workflow in running these models are to :
+
+1.Read and clean the data<br>
+2.Split the data into training and testing<br>
+3.Resample the data according to the algorithm method (SMOTE, Naive Random, Undersampling, etc.)<br>
+4.Run the confusion matrix and show statistical results<br>
+
+# Deliverable 1: Resampling Models to Predict Credit Risk
+Specifically for this deliverable we did the following:
+
+1.Create the training variables by converting the string values into numerical ones using the get_dummies() method.<br>
+2.Create the target variables.<br>
+3.Check the balance of the target variables.<br>
+4.Use the LogisticRegression classifier to make predictions and evaluate the model’s performance.<br>
+5.Calculate the accuracy score of the model.<br>
+6.Generate a confusion matrix.<br>
+7.Print out the imbalanced classification report (see below).<br>
+Naive Random Oversampling:
+
 
 
 
