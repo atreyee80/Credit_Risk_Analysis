@@ -53,10 +53,17 @@ Specifically for this deliverable we did the following:
 
 ![](Combinationoverandundersampling1.png?raw=true)
 ![](Combinationoverandundersampling2.png?raw=true)
-# randomForestModel
+
+# RandomForestModel
 ![](Randomforest1.png?raw=true)
 ![](Randomforest2.png?raw=true)
 
+# RandomForestModel
+![](Randomforest1.png?raw=true)
+
+# EasyEnsemble
+![](EE1.png?raw=true)
+![](EE2.png?raw=true)
 
 
 
