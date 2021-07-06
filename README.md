@@ -60,6 +60,7 @@ Specifically for this deliverable we did the following:
 
 |---|---|---|---|---|---|---|---|---|
 |Formula|(TP+NP)/(TP+FP+TN+FN)|TP/(TP+FP)|TP/(TP+FN)
+
 |---|---|---|---|
 |RandomOverSampler|0.58|0.01|0.47|0.69|0.02|0.57|0.32|104|
 |SMOTE|0.62|0.01|0.51|0.73|0.02|0.61|0.37|104|
