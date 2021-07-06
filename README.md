@@ -42,7 +42,7 @@ Specifically for this deliverable we did the following:
 ![](NaiveRandomOversampling2.png?raw=true)
 
 ## SMOTE Oversampling
-![](SMOTEOversampling1.png?raw=true)
+![](SMOTEoversampling1.png?raw=true)
 ![](SMOTEoversampling2.png?raw=true)
 
 
