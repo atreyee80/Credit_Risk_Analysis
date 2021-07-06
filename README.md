@@ -10,13 +10,13 @@ Create a machine learning model and analysis using different sampling techniques
 # Resources
 Data Sources provided to analyze and minipulate included:
 
-.LoanStats_2019Q1.csv
-.Software utilized for this study included:
+.LoanStats_2019Q1.csv<br>
+.Software utilized for this study included:<br>
 
-.Python 3.7.6
-.Conda 4.9.2
-.Jupyter Notebook 6.1.4
-.Personal GitHub account
+.Python 3.7.6<br>
+.Conda 4.9.2<br>
+.Jupyter Notebook 6.1.4<br>
+.Personal GitHub account<br>
 
 
 
