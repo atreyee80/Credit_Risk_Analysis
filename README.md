@@ -45,6 +45,10 @@ Specifically for this deliverable we did the following:
 ![](SMOTEoversampling1.png?raw=true)
 ![](SMOTEoversampling2.png?raw=true)
 
+## Undersampling
+![](Undersampling1.png?raw=true)
+![](Undersampling2.png?raw=true)
+
 
 ## Comparison of Results- High Risk Of Default
 |Model|Balanced Accuracy|High Risk Precision|High Risk Recall|SPE|F1|GEO|IBA|SUP|
