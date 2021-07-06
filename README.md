@@ -32,6 +32,7 @@ Specifically for this deliverable we did the following:
 1.Create the training variables by converting the string values into numerical ones using the get_dummies() method.<br>
 2.Create the target variables.<br>
 3.Check the balance of the target variables.<br>
+
 4.Use the LogisticRegression classifier to make predictions and evaluate the model’s performance.<br>
 5.Calculate the accuracy score of the model.<br>
 6.Generate a confusion matrix.<br>
