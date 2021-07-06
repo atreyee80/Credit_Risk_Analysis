@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---|---|
 |Formula|(TP+NP)/(TP+FP+TN+FN)|TP/(TP+FP)|TP/(TP+FN)
 |---|---|---|---|
-|RandomOverSampler|---|---|---|
+|RandomOverSampler|0.58|0.01|0.47|
 |SMOTE|---|---|---|
 |ClusterCentroids|---|---|---|
 |SMOTEENN|---|---|---|
