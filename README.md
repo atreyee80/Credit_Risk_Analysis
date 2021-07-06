@@ -7,6 +7,17 @@ Create a machine learning model and analysis using different sampling techniques
 4.Comparing the two models that reduce bias to predice risk: BalancedRandomForestClassifier and EasyEnsembleClassifier.<br> 
 5.Evaluate the performance of the models and their efficiency in predicting risk <br> 
 
+#Resources
+Data Sources provided to analyze and minipulate included:
+
+.LoanStats_2019Q1.csv
+.Software utilized for this study included:
+
+.Python 3.7.6
+.Conda 4.9.2
+.Jupyter Notebook 6.1.4
+.Personal GitHub account
+
 
 
 
