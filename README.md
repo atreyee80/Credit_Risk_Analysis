@@ -69,7 +69,7 @@ Specifically for this deliverable we did the following:
 
 
 ## Comparison of Results- High Risk Of Default
-High Risk of Default is not actually predicted by either of this algorithm,for Balanced Random Forest Classifier the accuracy is 66% but the F1 score is 0.49 which is good in order to balance the precision and recall,on the other hand Easy Ensemble Classifier the accuracy is good which shows 91% but the F1 score is not that good it is only 0.16
+High Risk of Default is not actually predicted by either of this algorithm,for Balanced Random Forest Classifier the accuracy is 66% and the F1 score is 0.49 which is good in order to balance the precision and recall,on the other hand Easy Ensemble Classifier the accuracy is good which shows 91% but the F1 score is not that good it is only 0.16
 |Model|Balanced Accuracy|High Risk Precision|High Risk Recall|SPE|F1|GEO|IBA|SUP|
 |---|---|---|---|---|---|---|---|---|
 |Formula|(TP+NP)/(TP+FP+TN+FN)|TP/(TP+FP)|TP/(TP+FN)
