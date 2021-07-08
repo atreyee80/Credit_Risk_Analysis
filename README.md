@@ -1,4 +1,5 @@
 # Credit_Risk_Analysis
+## Overview of the analysis
 Create a machine learning model and analysis using different sampling techniques and the imbalanced-learn and scikit-learn libraries on the credit risk dataset from LendingClub by:  
 
 1.Oversampling the data using the RandomOverSampler and SMOTE algorithms.<br> 
@@ -19,6 +20,7 @@ Data Sources provided to analyze and minipulate included:
 .Personal GitHub account<br>
 
 # Analysis/Workflow/Results
+## Results
 The general workflow in running these models are to :
 
 1.Read and clean the data<br>
@@ -96,6 +98,10 @@ Low Risk of Default is very well predicted in Easy Ensemble Classifier which sho
 |BalancedRandomForestClassifier|0.66|1.00|1.00|0.34|1.00|0.58|0.36|17101|
 |EasyEnsembleClassifier|0.91|1.00|0.94|0.89|0.97|0.92|0.85|17101|
 
+
+## Summary
+High Risk of Default is not actually predicted by either of this algorithm,however the Balanced Random Forest Classifier shows an accuracy of 66% and the F1 score is 0.49 which is good in order to balance the precision and recall,on the other hand Easy Ensemble Classifier the accuracy is good which shows 91% but the F1 score is not that good it is only 0.16.So none of this algorithm is good enough for the High Risk Defaulters
+Low Risk of Default is very well predicted in Easy Ensemble Classifier which shows accuracy rate of  91% and the F1 is 0.97 which is well balanced in the precision and recall.
 
 
 
