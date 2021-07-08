@@ -52,7 +52,7 @@ Specifically for this deliverable we did the following:
 
 # Combination of (Over and Under)Sampling
 
-![](Combinationoverandundersampling1.png?raw=true)
+![](CombinationOverandundersampling1.png?raw=true)
 ![](Combinationoverandundersampling2.png?raw=true)
 
 # RandomForestModel
